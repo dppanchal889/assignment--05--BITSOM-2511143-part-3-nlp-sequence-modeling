@@ -1,0 +1,7 @@
+Model Accuracy: 1.0
+
+Model Used:
+Naive Bayes with Bag of Words
+
+Evaluation Metric:
+Accuracy

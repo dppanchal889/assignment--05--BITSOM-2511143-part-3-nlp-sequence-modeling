@@ -1,0 +1,21 @@
+Sample Predictions
+
+Message:
+"The refund process was fast and convenient."
+
+Predicted Sentiment:
+Positive
+
+
+Message:
+"My refund is still pending and this experience is frustrating."
+
+Predicted Sentiment:
+Negative
+
+
+Message:
+"Please tell me how to update my account details."
+
+Predicted Sentiment:
+Neutral
